@@ -10,7 +10,7 @@
 
 ###
 
-<img align="none" height="150" src="https://gif-avatars.com/img/90x90/tf2-worker.gif"  />
+<img align="right" height="150" src="https://gif-avatars.com/img/90x90/tf2-worker.gif"  />
 
 ###
 
@@ -43,10 +43,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  <a href="https://t.me/sidorikv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@sidorikv&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/sidorik.v" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@sidorik.v&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
+  </a>
+  <a href="mailto:sidorik.v.d@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
